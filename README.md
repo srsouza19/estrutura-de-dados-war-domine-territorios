@@ -143,6 +143,3 @@ Cada nível foca em um conjunto de habilidades:
 🚀 **Boa sorte! Avance nos níveis e torne-se um mestre da programação estratégica!**
 
 > Equipe de Ensino – MateCheck
-
-O sistema imprime os dados de cada território, como:
-
