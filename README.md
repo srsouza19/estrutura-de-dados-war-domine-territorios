@@ -26,7 +26,7 @@ O usuário digita o nome do território, a cor do exército dominante e o númer
 
 📤 Saída:
 O sistema imprime os dados de cada território, como:
- ________________________________________
+________________________________________
 
 🧗‍♂️ Nível Aventureiro: Batalhas Estratégicas
 Prepare-se para simular ataques! Agora que os territórios estão cadastrados, é hora de adicionar dinâmica ao jogo.
